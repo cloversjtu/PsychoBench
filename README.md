@@ -7,6 +7,7 @@ The dataset is inspired by the **U.S. National Counselor Examination (NCE)** —
 This repository provides a **partial release** of the PsychoBench dataset.  
 The **full dataset** will be publicly released after the acceptance of the associated research paper.
 
+
 ---
 
 ## 📘 Dataset Description
@@ -33,20 +34,44 @@ Each entry follows this structure:
     "answer": "a"
   }
 
+```
+
+---
 
 
-## 🪪 License: CC-BY-NC-ND
 
-This dataset is licensed under the **Creative Commons Attribution–NonCommercial–NoDerivatives International License**.
+## 🪪 License: CC-BY-NC-ND 4.0
 
-You are free to:
-- **Share** — copy and redistribute the material in any medium or format.
 
-Under the following terms:
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
-- **NonCommercial** — You may not use the material for commercial purposes.  
-- **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.  
-- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+This dataset is released under the **CC BY-NC-ND 4.0** license.  
+You are **free to share** — copy and redistribute the material in any medium or format — **under the following terms:**
 
-To view a copy of this license, visit:  
-🔗 [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+| Condition | Description |
+|------------|-------------|
+| 🏷️ **Attribution** | You must give appropriate credit, provide a link to the license, and indicate if changes were made. |
+| 💼 **NonCommercial** | You may not use the material for commercial purposes. |
+| ⚙️ **NoDerivatives** | You may not remix, transform, or build upon the material. |
+| 🚫 **No additional restrictions** | You may not apply legal or technological measures that restrict others from doing anything the license permits. |
+
+📘 **Full license text:**  
+[Creative Commons CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+---
+
+
+
+
+---
+## 📄 Citation
+
+If you use this dataset in your research, please cite:
+
+```bibtex
+
+@article{zeng2025pychobench,
+  title={PychoBench: Evaluating the Psychology Intelligence of Large Language Models},
+  author={Zeng, Min},
+  journal={arXiv preprint arXiv:2510.01611},
+  year={2025}
+}
+
