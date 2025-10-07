@@ -69,7 +69,7 @@ If you use this dataset in your research, please cite:
 ```bibtex
 
 @article{zeng2025pychobench,
-  title={PychoBench: Evaluating the Psychology Intelligence of Large Language Models},
+  title={PsychoBench: Evaluating the Psychology Intelligence of Large Language Models},
   author={Zeng, Min},
   journal={arXiv preprint arXiv:2510.01611},
   year={2025}
